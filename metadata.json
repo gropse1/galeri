@@ -1,0 +1,6 @@
+{
+  "name": "Galeri ve Arşiv",
+  "description": "Sıfır telemetrili, tamamen yerel ve ultra hafif Android Galeri ve Arşiv uygulaması",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
